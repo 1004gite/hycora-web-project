@@ -1,3 +1,8 @@
+> ##프로젝트를 통해 배운점
+> > nodejs(express프레임워크)의 구조에대한 학습
+> > js문법에 대한 학습
+> > 데이터베이스 연동
+ 
 # hycora-web-project
 
 하이코라 웹페이지 프로젝트 (Keep It Simple)
